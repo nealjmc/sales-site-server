@@ -33,11 +33,11 @@ Development utilities:
 
 ### Orders
 
-- CRUD for products
+- CRUD for orders
 
 ### Customers
 
-- CRUD for products
+- CRUD for customers
 
 ### Scripts
 
