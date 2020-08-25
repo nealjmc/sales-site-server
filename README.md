@@ -1,6 +1,11 @@
 # Sales Site Server
 
-Includes API Server utilities:
+## Purpose
+
+Api for Sales-Site repo that connects to a MongoDb and saves products, orders, and customers.
+Mostly just a POC, and learning about Mongo and express
+
+## Includes API Server utilities:
 
 - [morgan](https://www.npmjs.com/package/morgan)
   - HTTP request logger middleware for node.js
@@ -19,11 +24,6 @@ Development utilities:
   - ☕️ Simple, flexible, fun JavaScript test framework for Node.js & The Browser ☕️
 - [supertest](https://www.npmjs.com/package/supertest)
   - HTTP assertions made easy via superagent.
-
-## Purpose
-
-Api for Sales-Site repo that connects to a MongoDb and saves products, orders, and customers.
-Mostly just a POC, and learning about Mongo and express
 
 ## Apis
 
