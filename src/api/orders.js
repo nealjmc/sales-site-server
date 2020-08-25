@@ -85,7 +85,7 @@ router.delete('/:id', async (req, res, next) => {
     if (!item) return next()
 
     const deleted = await products.remove({ _id: id })
-    res.status(200)
+    res.status(200).send()
   } catch (error) {
     next(error)
   }
